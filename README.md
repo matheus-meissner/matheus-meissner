@@ -4,8 +4,8 @@ Eu sou Matheus Meissner e este é o meu perfil do GitHub. Aqui estão algumas es
 
 ## Minhas Linguagens Mais Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/seu-usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-meissner&layout=compact)](https://github.com/matheus-meissner)
 
 ## Todos os Meus Commits
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seu-usuario/seu-usuario)](https://github.com/seu-usuario)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/matheus-meissner/matheus-meissner)](https://github.com/matheus-meissner)
