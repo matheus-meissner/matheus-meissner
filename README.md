@@ -14,7 +14,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  <img align="center" alt="Gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-original.svg" />
+  <img align="center" alt="Grunt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg" />
 </div>
 
 <br>
