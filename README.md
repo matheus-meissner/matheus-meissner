@@ -25,7 +25,7 @@
 ### Me siga nas redes abaixo!
  
 <div> 
-  <a href = "https://www.linkedin.com/in/matheus-iembo-meissner/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/matheus-iembo-meissner/"><img src="https://img.shields.io/badge/-LinkedIn-%232E86DE?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://portfolio-matheus-meissner.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-%231DD1A1?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus.iembo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheus.iembo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
