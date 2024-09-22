@@ -3,7 +3,7 @@
 
 
 ## 🌐 Minhas Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-meissner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-iembo-meissner/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DD1A1.svg?style=flat&logo=About.me&logoColor=white)](https://portfolio-matheus-meissner.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF6B6B.svg?style=flat&logo=gmail&logoColor=white)](mailto:matheus.iembo@gmail.com)
 
